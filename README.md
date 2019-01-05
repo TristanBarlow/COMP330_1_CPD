@@ -37,7 +37,7 @@ Solution: I will practice my summarising my poster in the future before presenti
 
 ## Week Eight
 Challenge: I struggled to implement a complex problem in 6502 assembly.      
-Effect: I became frustrated and began to lose motivation
+Effect: I became frustrated and began to lose motivation  
 Solution: In the future, I will ask for help from my lectures when I get stuck this bad again.
 
 ## Week Nine
@@ -57,7 +57,7 @@ Solution: I will try and remember that there is only one week left and I still h
 
 ## Week Twelve
 Challenge: Getting my deadlines mixed up.    
-Effect: I had been prioritising polishing the wrong submission as a result it caused unnecessary stress 
+Effect: I had been prioritising polishing the wrong submission as a result it caused unnecessary stress   
 Solution: In the future I will refer to my calendar more often.
 
 ## Smart targets actioned
