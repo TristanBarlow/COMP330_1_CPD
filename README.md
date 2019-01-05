@@ -1,53 +1,89 @@
 # Weekly Reports
 
 ## Week One
-
-After a long break, without much structure to my days, coming back to a routine I've forgotten has been challenging. In particular, I found my focus wondering during lectures. I believe this is because of the long summer where the only work I did was recreational. With the difficulty of the modules being greater than ever, I hope that I can start to focus as well, if not better than last year. To quickly get back into the routine of university life, I will make sure there are as few distractions as possible during each lecture.
+Challenge: I was not in a structured routine of waking up early.  
+Effect: Having less than the optimal amount of sleep I needed led to a decrease in focus.   
+Solution: Making myself stick to an early waking schedule regardless of my timetable. 
 
 ## Week Two
-
-This Week, during the second comp220 lectures we explored in more depth: OpenGL, fragment shaders, and vertex shaders. After the lecture I found myself playing around with the new concepts taught, however, I felt like I there was a gap in my knowledge. For the majority of week 2 changing and experimenting with these new concepts meant that all the extra time I put into my uni work went in that direction. As a result of this progress in other modules were slowed. In the future, I will refrain from self-teaching content, when I know that the content will be covered in future lectures. 
+Challenge: Finding a compatible team for the group game project.  
+Effect: I spent a lot of time networking and less time actually programming.  
+Solution: To approach another member of the BSc who I know I can work with.    
 
 ## Week Three
-
-During the comp 230 lecture this week, we engaged in a class dialogue. The dialogue involved everyone in the group expressing their thoughts on the current topic. The aim of this dialogue was for everyone to benefit from hearing the opinions of others and not to challenge those opinions but to accept them and ask them to explain their viewpoints. I found myself challenging the thoughts of my peers and not asking them to explain their opinions. Next week during our next dialogue I will be more respectful and ask for my peers to explain their viewpoints.
+Challenge: Making edits to my peers work on the wiki without upsetting anyone.  
+Effect: A loss of interpersonal relations with a few of my peers.  
+Solution: To get into contact with someone before editing someones work.  
 
 ## Week Four
-In week four, I found large frustration with my inability to focus on one task for any meaningful amount of time. For example, on Tuesday, I sat down to improve the structure of my comp220 project. Shortly after starting I found myself getting bored of the reformatting and I begin to code some new mechanics for our group game project. I am usually very productive  productive but constantly flicking between tasks reduced the efficiency of the work period as a whole. In the future, I will sit down and force myself to work on one task at a time, in the hopes that this will improve the quality and quantity of work I produce. 
+Challenge: I was not aware of the topics the second years had covered and thus could not provide good support.  
+Effect: I could not help them as much as I would like to have.  
+Solution: Ask Brian if I could be added to the COMP220 module and inform myself of the material they cover.   
 
 ## Week Five
-With the first deadline of the semester comes the time management problems that all experience. However, a more stressing problem occurred this week. The assessment for COMP210_1 had us write up an academic report for a game within the games academy, using a website as the medium to present our report. During the lecture on Tuesday, I found out that the observation work I had been conducting (an eyeball report, which I then wrote down) was not considered scientific. This happened because I rushed into the assignment without first researching the correct method to gather observation data. To make sure this does not happen again I will be sure of the scientific method before starting.  
+Challenge: Not being able to follow the 6502 lecture.  
+Effect: I have fallen behind with my understanding of assembly programming.    
+Solution: To go back over the slides and implement everything described until I understand it fully.  
 
 ## Week Six
-Week six was meant to be reading week however, it was changed, unofficially to open studio practice week at the last minute. I was planning on using this week to complete my research journal assignment instead, my game development team required us to be in every day. The issues I had with this week is my commitment to a plan. I found myself going in and working on the game as appose to doing the research journal as I had planned. This with the deadline for the research journal fast approaching working on the game should not be the priority right now. In future, I, when I create a sensible plan sticking to it, will be more beneficial to me in the long run.
+Challenge: Focusing on reading academic papers and do less programming.  
+Effect: The reading week is meant for reading academic papers, not utilising it to its full potential has made me fall behind on my research project.    
+Solution: I will make sure I read at least 10 papers next week to catch up.  
 
 ## Week Seven
-The issues I had this week came in the COMP220 Lecture. I found myself losing concentration, this was because of the complex nature of the material covered. To better keep my concentration when in class I will open the lecture slides and follow through the material as we go, rather than trying to implement the material being covered. 
+Challenge: I struggled to accurately present my technical demo.    
+Effect: I found myself reading straight off the poster at times, rather than accurately summarising key points.  
+Solution: I will practice my summarising my poster in the future before presenting it.
 
 ## Week Eight
-Issue: Submitting the first and last version on the day the work is due.
-Effect: Could miss submission if anything something unexpected happens. 
-Solution: Always submit even a working progress one day before the deadline is due. That way worse come to worse I will have something submitted.
+Challenge: I struggled to implement a complex problem in 6502 assembly.      
+Effect: I became frustrated and began to lose motivation
+Solution: In the future, I will ask for help from my lectures when I get stuck this bad again.
 
+## Week Nine
+Challenge: I found it hard to understand how R works.     
+Effect:   This will impact my greatly when I come to the data processing part of my dissertation.  
+Solution: I will practice using R with the data set provided to us.
 
-## 5 Key skills WORK IN PROGRESS
-Sticking to a formualted plan of action.
-~ I will do this by creating a plan of action for each module and assessing how closly I follow the plan.
+## Week Ten
+Challenge: I spent a lot of time this week planning my deadlines rather than working on them  
+Effect:The pressure of meeting my deadlines increased as I started to fall behind  
+Solution: I will spend less time planning and more time doing.
 
-To better control my emotitions when conversing with peers.
-~ I will do this by learning three mental calming techniques and practices them when feeling adverse emotions (frustration)
+## Week Eleven
+Challenge: I struggled to stay motivated so close to the end of term.    
+Effect: I have been spending more time talking and less time actually doing work  
+Solution: I will try and remember that there is only one week left and I still have deadlines to do.
 
-Increase my proficienccy at diaglouging.
-~ I will do this by engaging in at least three structured dialogues a month.
+## Week Twelve
+Challenge: Getting my deadlines mixed up.    
+Effect: I had been prioritising polishing the wrong submission as a result it caused unnecessary stress 
+Solution: In the future I will refer to my calendar more often.
 
-I will improve my c# skills to increase my knowledge of programming languages.
-~ I will do this by creating a small 2D game with my friend(artist) hopefully to a level where I can publish it
-on the appstore.
+## Smart targets actioned
 
-Increase my knowledge on stratagies for learning.
-~ I will do this by reading a research paper and trying to implement one methods described to learn a new aspect in unreal engine. And assessing 
-which one is most effective for me.
+1: Spend at least two hours investigating and trying to understand a system before trying to implement anything.   
+2:  Increase colleague satisfaction to 95% on any deliverable I  produce.  
+3: To become more proficient at evaluating how much effort/impact a task will take.   
+4:  To build 3 simple algorithms that can be used in both Unreal Engine and Unity Engine.  
+5:  Create two full UML diagrams both for non-trivial systems. Including a UML that considers both structural and dynamic behaviours. In addition, the overall object hierarchy.  
 
+## 5 Key skills
+
+Managing my break times effectively.
+~ I will read and practice an advice article by [Siliconrepubli](https://www.siliconrepublic.com/advice/work-breaks-stress-productivity).
+
+ The ability to control my frustration towards colleagues
+~  I will download the app called Headspace and complete the ten day basic course.
+
+To be able to effectively lead a small team.
+~I will complete the two beginner level tutorials on Lynda.com called [Managing teams](https://www.lynda.com/course-tutorials/Managing-Teams-2018/746304-2.html) and  [Leading with emotional intelligence](https://www.lynda.com/Leadership-Management-tutorials/Inspirational-leadership/756283/5006410-4.html)
+ 
+ To know a framework for lightweight native app development
+~ I will do this by completing one beginner and one intermediate Apache Cordova tutorial on Lynda.com .
+
+ To utilise my C++ knowledge when working in UE4.
+~ I will do this by creating the inventory system needed for our came using C++.
 
 ## definitions
 Dispositional domain ~ manage time and remain diciplined
